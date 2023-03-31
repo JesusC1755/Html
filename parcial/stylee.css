@@ -1,0 +1,16 @@
+table th {
+    width: 5em;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: lightcyan ;
+}
+
+.colorh {
+    color: red;
+}
